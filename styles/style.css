@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#first img{
+    width: 198px;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+header{
+    padding: 10px;
+  }
+  
+nav ul{
+    display: flex;
+    margin-left: 30%;
+    margin-top: -2.5%;
+  }
+  
+nav ul li{
+    margin-right: 50px;
+  }
+  
+nav ul li a{
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 30px;
+  }
+.hey li a{
+    color: #4E6FAE;
+}
+.hey1 li a{
+    color: #8D81FF;
+}
+.hey2 li a{
+    color: #8D81FF;
+}
+.date26{
+    width: 50px;
+    height: 50px;
+    background: #5012d5;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #84ff81;
+    text-align: center;
+    padding-top: 8px;
+}
+section{
+    margin-left: 52px;
+    margin-top: 52px;
+}
+h3{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #8D81FF;
+  margin-top: 10px;
+}
+h4{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #4E6FAE;
+  margin-top: 10px;
+}
+.images-1{
+  margin-top: 13px;
+  width: 447px;
+  height: 280px;
+}
+p{
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #4E6FAE;
+}
+.content{
+  width: 778px;
+  display: inline-block;
+  margin-left: 3%;
+}
+.date27{
+  width: 50px;
+  height: 50px;
+  background: #5012d5;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #84ff81;
+  text-align: center;
+  padding-top: 8px;
+}
+.images-2{
+  margin-top: 13px;
+  width: 447px;
+  height: 280px;
+}
+.content1{
+  width: 778px;
+  height: 280px;
+  display: inline-block;
+  margin-left: 3%;
+  vertical-align: bottom;
+}
+.date28{
+  width: 50px;
+  height: 50px;
+  background: #5012d5;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #84ff81;
+  text-align: center;
+  padding-top: 8px;
+}
+.images-3{
+  margin-top: 13px;
+  width: 447px;
+  height: 280px;
+}
+.content2{
+  margin-top: 1.5%;
+}
+.end{
+  margin-left: 3%;
+}
+.end1{
+  margin-left: 8%;
+  margin-top: -3.3%;
+}
+.end2{
+  margin-left: 10%;
+  margin-top: -3.3%;
+}
